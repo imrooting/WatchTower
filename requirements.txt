@@ -1,0 +1,10 @@
+# WatchTower - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Excel output
+xlsxwriter>=3.1.0
+openpyxl>=3.1.0
+
+# Standard library modules used (no install needed):
+#   argparse, csv, glob, os, pathlib, re, shutil, subprocess,
+#   sys, time, urllib.parse, xml.etree.ElementTree
